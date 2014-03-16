@@ -4,7 +4,7 @@ Is a game developed at school and published in Latindevelopers.com. Is a very ba
 
 ## Ajedrez en Visual C++ (Juego Básico)
 
-es un juego desarrollado en el 2014, el cual se ha mudado las fuentes a github para que pueda ser mejor mantenido.
+Es un juego desarrollado en el 2004, el cual se ha mudado las fuentes a github para que pueda ser mejor mantenido. El juego esta desarrollado para Visual C++ 2003, pero creo que es compatible con versiones actuales.
 
 ## URL
 
