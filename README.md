@@ -1,3 +1,5 @@
+![Chess Board](http://www.latindevelopers.com/wp-content/uploads/2017/12/Ajedrez-terminado.jpg)
+
 ## Visual C++ Chess Basic Game
 
 Is a game developed at school and published in Latindevelopers.com. Is a very basic game, the documentation is available in spanish.
@@ -8,7 +10,7 @@ Es un juego desarrollado en el 2004, el cual se ha mudado las fuentes a github p
 
 ## URL
 
-http://www.latindevelopers.com/articulos/visualc/chess.php
+http://www.latindevelopers.com/articulo/juego-de-ajedrez/ (Spanish)
 
 ## Version History
 
